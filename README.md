@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NermienBarakat
+- 👋 Hi, I’m @Neri
 - 👀 I'm interested in software engineering
 - 🌱 I’m currently learning networking
 - 💞️ I’m looking to collaborate on javascript project
