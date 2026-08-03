@@ -1,82 +1,39 @@
-# 👋 Hi, I’m Neri
+# Hi, I'm Neri 👋
 
-## 👀 About Me
-I’m a **software engineer and student** with a strong interest in building clean, scalable web applications and developing **systems-level thinking** through computer science fundamentals.
+**Systems & Applied AI Architect** — I design structured software and AI-enabled systems by connecting business needs, workflows, data, technology and people.
 
-I enjoy working on projects that balance **practical product design** with **solid architecture**, and I prefer solutions that are minimal, well-structured, and easy to extend.
+With nearly 20 years across software development, systems analysis and architecture, I work throughout the full lifecycle of digital products — from understanding operational problems and defining requirements, to designing systems, supporting implementation and improving how they work in practice.
 
----
+My approach is grounded in **systems thinking**. Before selecting a technology or building a feature, I focus on the wider environment: users, processes, information, decisions, dependencies, risks and desired outcomes. That's how complex business requirements become software that is clear, practical, scalable and maintainable.
 
-## 🎯 Current Focus
-- Studying **algorithms, data structures, and computability**
-- Building a **file transfer SaaS** focused on large-file workflows
-- Working with **modern full-stack web technologies**
-- Improving system design and **cloud-native patterns**
+- 🧭 Software Systems & Applied AI Architect at [TreeNodes](https://treenodes.com) — systems architecture, applied AI, business analysis and digital product delivery
+- 🛠️ Designing and delivering **web and mobile applications** end to end — from requirements and architecture through build, integration and release
+- 🤖 Focused on **responsible AI-enabled systems** — analysis, knowledge work, document processing, decision-making and workflow automation, with human review, accuracy, security and traceability
+- 🎓 Studying **BSc (Hons) Computing & IT (Computer Science with AI)** at The Open University
+- 🌍 Based in Harpenden, England, UK
 
----
+### What I work on
 
-## 🧰 Tech Stack
+- Applied AI and AI-assisted workflows
+- Systems thinking and software architecture
+- Business and requirements analysis
+- Workflow and process design
+- Intelligent digital products
+- Web and mobile application delivery
+- Research, prototyping and solution evaluation
+- Technical documentation and product discovery
 
-### Frontend
-- Next.js (App Router, Server Components)
-- React
-- Tailwind CSS
+### Background
 
-### Backend / Infrastructure
-- Node.js
-- Cloudflare (Workers, R2)
-- PostgreSQL
-- REST APIs
-- C#
+A multidisciplinary path — Computing & IT with Computer Science and Artificial Intelligence, built on earlier study in biochemistry, environmental science, GIS and remote sensing. It gives me a broad perspective when working across technical, scientific, operational and human problems.
 
-### Languages
-- JavaScript / TypeScript
-- Java (academic)
-- Python (academic)
+**Certifications:** IBM Enterprise Design Thinking Practitioner · IBM — Getting Started with Artificial Intelligence
 
-### Tools
-- Git & GitHub
-- Docker
-- pnpm / npm
+**Languages:** Arabic (native) · English (professional working)
 
----
+### Connect
 
-## 🧠 Engineering Values
-- Minimal dependencies
-- Clear domain models
-- Server-side first when appropriate
-- Readable, maintainable code
-- Incremental, phase-based delivery
-
----
-
-## 🚀 Projects
-- **File Transfer system** — Large file transfer platform  
-  *(direct-to-object-storage uploads, signed URLs, scalable architecture)*
-- Academic projects focused on **algorithms and complexity analysis**
-
----
-
-## 📚 Learning Philosophy
-I value:
-- First-principles understanding
-- “Build small, then evolve”
-- Documentation that explains *why*, not just *how*
-
----
-
-## 💞️ Collaboration
-I’m interested in collaborating on:
-- JavaScript / TypeScript projects
-- Full-stack or backend-focused systems
-- Well-scoped, technically thoughtful ideas
-
----
-
-## 📫 Contact
-- GitHub: `@NermienBarakat`
-- Email: `nermien@treenodes.com`
-
----
-
-> “Simple systems scale better than clever ones.”
+- 🌐 Website: [treenodes.com](https://treenodes.com)
+- 💼 LinkedIn: [nermien-barakat](https://www.linkedin.com/in/nermien-barakat/)
+- ✍️ Blog: [medium.com/@nerimbarakat](https://medium.com/@nerimbarakat)
+- ✉️ Email: nermien@treenodes.com
