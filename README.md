@@ -6,7 +6,7 @@ With nearly 20 years across software development, systems analysis and architect
 
 My approach is grounded in **systems thinking**. Before selecting a technology or building a feature, I focus on the wider environment: users, processes, information, decisions, dependencies, risks and desired outcomes. That's how complex business requirements become software that is clear, practical, scalable and maintainable.
 
-- 🧭 Software Systems & Applied AI Architect at [TreeNodes](https://treenodes.com) — systems architecture, applied AI, business analysis and digital product delivery
+- 🧭 Software Systems & Applied AI Architect at [TreeNodes](treenodes.com) — systems architecture, applied AI, business analysis and digital product delivery
 - 🛠️ Designing and delivering **web and mobile applications** end to end — from requirements and architecture through build, integration and release
 - 🤖 Focused on **responsible AI-enabled systems** — analysis, knowledge work, document processing, decision-making and workflow automation, with human review, accuracy, security and traceability
 - 🎓 Studying **BSc (Hons) Computing & IT (Computer Science with AI)** at The Open University
@@ -33,7 +33,6 @@ A multidisciplinary path — Computing & IT with Computer Science and Artificial
 
 ### Connect
 
-- 🌐 Website: [treenodes.com](https://treenodes.com)
+- 🌐 Website: [treenodes.com](treenodes.com)
 - 💼 LinkedIn: [nermien-barakat](https://www.linkedin.com/in/nermien-barakat/)
-- ✍️ Blog: [medium.com/@nerimbarakat](https://medium.com/@nerimbarakat)
 - ✉️ Email: nermien@treenodes.com
