@@ -27,12 +27,9 @@ My approach is grounded in **systems thinking**. Before selecting a technology o
 
 A multidisciplinary path — Computing & IT with Computer Science and Artificial Intelligence, built on earlier study in biochemistry, environmental science, GIS and remote sensing. It gives me a broad perspective when working across technical, scientific, operational and human problems.
 
-**Certifications:** IBM Enterprise Design Thinking Practitioner · IBM — Getting Started with Artificial Intelligence
 
-**Languages:** Arabic (native) · English (professional working)
 
 ### Connect
 
 - 🌐 Website: [treenodes.com](https://www.treenodes.com/)
 - 💼 LinkedIn: [nermien-barakat](https://www.linkedin.com/in/nermien-barakat/)
-- ✉️ Email: nermien@treenodes.com
