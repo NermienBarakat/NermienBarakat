@@ -9,8 +9,6 @@ My approach is grounded in **systems thinking**. Before selecting a technology o
 - 🧭 Software Systems & Applied AI Architect at [TreeNodes](https://www.treenodes.com/) — systems architecture, applied AI, business analysis and digital product delivery
 - 🛠️ Designing and delivering **web and mobile applications** end to end — from requirements and architecture through build, integration and release
 - 🤖 Focused on **responsible AI-enabled systems**  analysis, knowledge work, document processing, decision-making and workflow automation, with human review, accuracy, security and traceability
-- 🎓 Studying **BSc (Hons) Computing & IT (Computer Science with AI)** at The Open University
-- 🌍 Based in Harpenden, England, UK
 
 ### What I work on
 
@@ -26,8 +24,6 @@ My approach is grounded in **systems thinking**. Before selecting a technology o
 ### Background
 
 A multidisciplinary path, Computing & IT with Computer Science and Artificial Intelligence, built on earlier study in biochemistry, environmental science, GIS and remote sensing. It gives me a broad perspective when working across technical, scientific, operational and human problems.
-
-
 
 ### Connect
 
