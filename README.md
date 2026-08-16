@@ -28,4 +28,4 @@ A multidisciplinary path, Computing & IT with Computer Science and Artificial In
 ### Connect
 
 - 🌐 Website: [treenodes.com](https://www.treenodes.com/)
-- 💼 LinkedIn: [nermien-barakat](https://www.linkedin.com/in/nermien-barakat/)
+- 💼 LinkedIn: [nermien-barakat](https://www.linkedin.com/in/nermienbarakat/)
