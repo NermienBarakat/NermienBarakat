@@ -26,13 +26,16 @@ I care about the details, the exceptions and staying with a problem until it mak
 
 Nearly twenty years across:
 
-| Fields | |
-|---|---|
-| Document and information management | Facilities services |
-| Construction and real estate | Healthcare and life sciences |
-| Education and learning | Retail and e-commerce |
-| Music and the arts | Sports and community platforms |
-| Professional and legal services | Green tech |
+📁 Document and information management  
+🏢 Facilities services  
+🏗️ Construction and real estate  
+🩺 Healthcare and life sciences  
+🎓 Education and learning  
+🛒 Retail and e-commerce  
+🎵 Music and the arts  
+⚽ Sports and community platforms  
+⚖️ Professional and legal services  
+🌱 Green tech
 
 Each field has its own language and ways of working. Understanding those differences is part of the job.
 
