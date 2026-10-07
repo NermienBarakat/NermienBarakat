@@ -1,62 +1,63 @@
 # Hi, I'm Nermien Barakat (Neri)
 
-**Principal Software Architect & Engineer · TreeNodes**  
+**Principal Software Architect & Engineer · [TreeNodes](https://treenodes.com/)**  
 Web & Mobile Applications · Business Systems & Applied AI
 
-I turn business needs, processes and data into software architecture and working products. At [TreeNodes](https://treenodes.com/), I connect business analysis, systems design and hands-on software delivery to build software that fits how people work.
+I turn business needs, processes and data into software that fits how people work, from the first conversation through architecture, delivery and support.
 
-[TreeNodes](https://treenodes.com/) · [LinkedIn](https://www.linkedin.com/in/nermienbarakat/) · [My writing](https://treenodes.com/articles/by/nermien-barakat/) · [Discuss a project](https://treenodes.com/contact/) · [hi@treenodes.com](mailto:hi@treenodes.com)
+[Website](https://treenodes.com/) · [LinkedIn](https://www.linkedin.com/in/nermienbarakat/) · [Articles](https://treenodes.com/articles/by/nermien-barakat/) · [hi@treenodes.com](mailto:hi@treenodes.com)
 
-## From business needs to working software
+## What I do
 
-With nearly 20 years across software development, systems analysis and architecture, I work across the full product lifecycle: understanding the problem, defining requirements, designing and building the system, and improving it through real use.
+**Business analysis and systems design:** discovery, requirements, process mapping and data modelling.  
+**Software architecture:** system boundaries, APIs, integrations and the decisions that keep software maintainable.  
+**Product development:** web and mobile apps and internal business systems, from prototype to release.  
+**Workflow automation:** connected tools, fewer manual handoffs and visible exceptions.  
+**Applied AI:** AI works on probability, so every task gets clear permissions, human review and a definition of done.
 
-My approach starts with the people doing the work: their decisions, information, handoffs and exceptions. That understanding guides the process models, data structures and architecture.
+## How I work
 
-**Business needs → Processes & data → Architecture → Working products → Feedback**
+Nearly 20 years across software development, systems analysis and architecture taught me to start with the people doing the work: their decisions, information, handoffs and exceptions.
 
-## What I work on
+**Business needs → Processes & data → Architecture → Working software → Feedback**
 
-- **Business analysis and systems design:** discovery, requirements, process mapping, data modelling and clear responsibilities.
-- **Software architecture:** system boundaries, APIs, integrations, dependencies and the decisions that keep software maintainable.
-- **Product development:** web and mobile applications, internal business systems and digital products, from prototype through release.
-- **Workflow automation:** connecting tools and information, reducing manual handoffs and making exceptions visible.
-- **Applied AI:** defined tasks for document processing, knowledge work and workflow support, with clear permissions, human review and traceable decisions.
+## Industries
 
-## Writing from practice
+| Field | Experience |
+|---|---|
+| Business operations | Document and file processing, project management, workflow automation, construction |
+| Commerce and property | E-commerce, real estate, travel |
+| Health and education | Medical and health, care planning, education and tutoring |
+| Media and entertainment | Music learning, theatre and events, social platforms, publishing |
 
-I write about the decisions behind dependable software, from understanding an operation to defining what an AI system is allowed to do.
+## Tech stack
 
-- [Modelling the system before the code](https://treenodes.com/articles/modelling-the-system-before-the-code/)
-- [The exception path is the real workflow](https://treenodes.com/articles/the-exception-path-is-the-real-workflow/)
-- [Giving AI a job description](https://treenodes.com/articles/giving-ai-a-job-description/)
+| Area | Tools |
+|---|---|
+| Back end | C# and .NET, GraphQL, SQL Server |
+| Web | TypeScript, JavaScript, Astro, HTML and CSS |
+| Mobile | Swift (iOS), Kotlin (Android) |
+| Cloud | Azure, Google Cloud, Cloudflare |
+| AI | OpenAI, Claude |
+| Delivery | Jira, Confluence |
+
+## Writing
+
+Practical articles on the decisions behind dependable software:
+
+[The person missing from the diagram](https://treenodes.com/articles/the-person-missing-from-the-diagram/)  
+[The exception path is the real workflow](https://treenodes.com/articles/the-exception-path-is-the-real-workflow/)  
+[Modelling the system before the code](https://treenodes.com/articles/modelling-the-system-before-the-code/)  
+[Giving AI a job description](https://treenodes.com/articles/giving-ai-a-job-description/)  
+[If AI can build the software, what is the architect for?](https://treenodes.com/articles/if-ai-can-build-software-what-is-the-architect-for/)  
+[How AI systems fit together](https://treenodes.com/articles/how-ai-systems-fit-together/)
+
+**Exploring now:** AI agents, MCP and RAG with a clear definition of done · Kaizen applied to software · [All articles](https://treenodes.com/articles/by/nermien-barakat/)
 
 ## Background
 
-My studies span Computing & IT, Computer Science and Artificial Intelligence, alongside earlier study in biochemistry, environmental science, GIS and remote sensing. This multidisciplinary background shapes how I connect technical, operational and human problems.
+Computing & IT, Computer Science and Artificial Intelligence, alongside earlier study in biochemistry, environmental science, GIS and remote sensing. That mix shapes how I connect technical, operational and human problems.
 
-## Domains I work in
+## Work with me
 
-File and document processing · Project management · Commerce · Real estate · Construction · Education and tutoring · Medical and health · Music learning · Social platforms · CMS and publishing · Theatre and events · Travel
-
-## Tech I use
-
-Astro · TypeScript · JavaScript · HTML and CSS · Cloudflare Pages and Workers · Jira and Confluence
-
-## Currently exploring
-
-Applied AI agents, MCP and RAG with a clear definition of done · Modelling the system before the code · Workflow automation · Kaizen, applied to software
-
-## Recent writing
-
-[Skills, MCP, RAG and Memory: How an AI Agent Investigates a 500 Error](https://treenodes.com/articles/skills-mcp-rag-memory-500-error/)  
-[Jira and Confluence: From a Business Question to a Working Feature](https://treenodes.com/articles/jira-confluence-business-question-to-working-feature/)  
-[If AI can build the software, what is the architect for?](https://treenodes.com/articles/if-ai-can-build-software-what-is-the-architect-for/)  
-[How AI systems fit together](https://treenodes.com/articles/how-ai-systems-fit-together/)  
-[All my articles](https://treenodes.com/articles/by/nermien-barakat/)
-
-## Let's connect
-
-For a new product, a complex workflow or a system that needs to evolve, [explore TreeNodes services](https://treenodes.com/services/) or [get in touch](https://treenodes.com/contact/).
-
-You can also [connect with me on LinkedIn](https://www.linkedin.com/in/nermienbarakat/).
+Building something new, fixing a workflow or evolving a system? [Explore TreeNodes services](https://treenodes.com/services/) or [discuss a project](https://treenodes.com/contact/).
