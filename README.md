@@ -1,36 +1,40 @@
 # Hi, I'm Nermien Barakat (Neri)
 
-**Principal Software Architect & Engineer · [TreeNodes](https://treenodes.com/)**  
+**Principal Software Architect & Engineer · the person behind [TreeNodes](https://treenodes.com/)**  
 Web & Mobile Applications · Business Systems & Applied AI
 
-I turn business needs, processes and data into software that fits how people work, from the first conversation through architecture, delivery and support.
+I help businesses replace manual processes, outdated software and disconnected systems with software that fits how they work, taking each project from the first conversation to a working system.
 
 [Website](https://treenodes.com/) · [LinkedIn](https://www.linkedin.com/in/nermienbarakat/) · [Articles](https://treenodes.com/articles/by/nermien-barakat/) · [hi@treenodes.com](mailto:hi@treenodes.com)
 
-## What I do
+## What I build
 
-**Business analysis and systems design:** discovery, requirements, process mapping and data modelling.  
-**Software architecture:** system boundaries, APIs, integrations and the decisions that keep software maintainable.  
-**Product development:** web and mobile apps and internal business systems, from prototype to release.  
-**Workflow automation:** connected tools, fewer manual handoffs and visible exceptions.  
-**Applied AI:** AI works on probability, so every task gets clear permissions, human review and a definition of done.
+→ Web and mobile applications  
+→ Business systems and integrations  
+→ Workflow automation  
+→ Applied AI on your own data. AI works on probability, so every result needs a clear definition of done before it goes out.
 
 ## How I work
 
-Nearly 20 years across software development, systems analysis and architecture taught me to start with the people doing the work: their decisions, information, handoffs and exceptions.
+I start with the business: its people, data and processes. I map how work actually happens, design the architecture, build the software and keep improving it based on real use.
 
-**Business needs → Processes & data → Architecture → Working software → Feedback**
+I care about the details, the exceptions and staying with a problem until it makes sense. That understanding belongs in the software.
 
-## Industries
+**People · Data · Processes → Architecture → Working software → Real use**
 
-| Sector | What I've built |
+## Where I've worked
+
+Nearly twenty years across:
+
+| Fields | |
 |---|---|
-| Professional services and operations | Client file collection, project management and internal business systems |
-| Retail and e-commerce | An eyewear marketplace, from first idea to storefront and back end |
-| Real estate | Website and back end for a property photography and marketing business |
-| Health and care | A women's health community website and an iOS care-planning app |
-| Education | A tutoring platform for young people and a music learning platform on web and mobile |
-| Media, arts and community | A drama school website, a fan social network and image-processing tools |
+| Document and information management | Facilities services |
+| Construction and real estate | Healthcare and life sciences |
+| Education and learning | Retail and e-commerce |
+| Music and the arts | Sports and community platforms |
+| Professional and legal services | Green tech |
+
+Each field has its own language and ways of working. Understanding those differences is part of the job.
 
 ## Tech stack
 
@@ -41,25 +45,26 @@ Nearly 20 years across software development, systems analysis and architecture t
 | Mobile | Swift (iOS), Kotlin (Android) |
 | Cloud | Azure, Google Cloud, Cloudflare |
 | AI | OpenAI, Claude |
-| Delivery | Jira, Confluence |
+| Delivery | Jira, Confluence, Linear |
 
 ## Writing
 
-Practical articles on the decisions behind dependable software:
+I write about software architecture, systems and practical decisions in working with AI.
 
 [The person missing from the diagram](https://treenodes.com/articles/the-person-missing-from-the-diagram/)  
 [The exception path is the real workflow](https://treenodes.com/articles/the-exception-path-is-the-real-workflow/)  
 [Modelling the system before the code](https://treenodes.com/articles/modelling-the-system-before-the-code/)  
 [Giving AI a job description](https://treenodes.com/articles/giving-ai-a-job-description/)  
 [If AI can build the software, what is the architect for?](https://treenodes.com/articles/if-ai-can-build-software-what-is-the-architect-for/)  
-[How AI systems fit together](https://treenodes.com/articles/how-ai-systems-fit-together/)
-
-**Exploring now:** AI agents, MCP and RAG with a clear definition of done · Kaizen applied to software · [All articles](https://treenodes.com/articles/by/nermien-barakat/)
+[How AI systems fit together](https://treenodes.com/articles/how-ai-systems-fit-together/)  
+[All articles →](https://treenodes.com/articles/by/nermien-barakat/)
 
 ## Background
 
-Computing & IT, Computer Science and Artificial Intelligence, alongside earlier study in biochemistry, environmental science, GIS and remote sensing. That mix shapes how I connect technical, operational and human problems.
+Computing, software development and AI, alongside GIS and remote sensing, environmental science and biochemistry. That mix shapes how I approach problems: asking questions, seeing how the parts connect and noticing what a simple explanation misses.
 
 ## Work with me
 
-Building something new, fixing a workflow or evolving a system? [Explore TreeNodes services](https://treenodes.com/services/) or [discuss a project](https://treenodes.com/contact/).
+📍 In person across England, remote worldwide.
+
+What would you like to build or improve? [Discuss a project](https://treenodes.com/contact/) or email [hi@treenodes.com](mailto:hi@treenodes.com).
