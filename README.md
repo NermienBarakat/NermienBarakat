@@ -43,7 +43,7 @@ Each field has its own language and ways of working. Understanding those differe
 
 | Area | Tools |
 |---|---|
-| Back end | C# and .NET, Java, Node.js and Express, GraphQL |
+| Back end | C# and .NET, Java, Python, Node.js and Express, GraphQL |
 | Web | TypeScript, JavaScript, React, Next.js, Astro, WebAssembly, HTML and CSS |
 | Mobile | Swift, SwiftUI and UIKit (iOS), Kotlin (Android) |
 | Data | SQL Server, PostgreSQL, MySQL, MongoDB, Firebase |
