@@ -25,7 +25,7 @@ Nearly 20 years across software development, systems analysis and architecture t
 
 | Field | Experience |
 |---|---|
-| Business operations | Document and file processing, project management, workflow automation, construction |
+| Business operations | Operations and process improvement, document and file processing, project management, workflow automation |
 | Commerce and property | E-commerce, real estate, travel |
 | Health and education | Medical and health, care planning, education and tutoring |
 | Media and entertainment | Music learning, theatre and events, social platforms, publishing |
