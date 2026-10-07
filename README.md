@@ -43,11 +43,13 @@ Each field has its own language and ways of working. Understanding those differe
 
 | Area | Tools |
 |---|---|
-| Back end | C# and .NET, GraphQL, SQL Server |
-| Web | TypeScript, JavaScript, Astro, HTML and CSS |
-| Mobile | Swift (iOS), Kotlin (Android) |
-| Cloud | Azure, Google Cloud, Cloudflare |
-| AI | OpenAI, Claude |
+| Back end | C# and .NET, Java, Node.js and Express, GraphQL |
+| Web | TypeScript, JavaScript, React, Next.js, Astro, WebAssembly, HTML and CSS |
+| Mobile | Swift, SwiftUI and UIKit (iOS), Kotlin (Android) |
+| Data | SQL Server, PostgreSQL, MySQL, MongoDB, Firebase |
+| Cloud and DevOps | Azure, AWS, Google Cloud, Cloudflare, Docker, CI/CD |
+| AI | OpenAI, Azure OpenAI, Claude, Gemini, RAG, MCP and agents |
+| Design and architecture | Figma, UI and UX design, C4 model, workflow and process modelling |
 | Delivery | Jira, Confluence, Linear |
 
 ## Writing
