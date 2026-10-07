@@ -35,6 +35,26 @@ I write about the decisions behind dependable software, from understanding an op
 
 My studies span Computing & IT, Computer Science and Artificial Intelligence, alongside earlier study in biochemistry, environmental science, GIS and remote sensing. This multidisciplinary background shapes how I connect technical, operational and human problems.
 
+## Domains I work in
+
+File and document processing · Project management · Commerce · Real estate · Construction · Education and tutoring · Medical and health · Music learning · Social platforms · CMS and publishing · Theatre and events · Travel
+
+## Tech I use
+
+Astro · TypeScript · JavaScript · HTML and CSS · Cloudflare Pages and Workers · Jira and Confluence
+
+## Currently exploring
+
+Applied AI agents, MCP and RAG with a clear definition of done · Modelling the system before the code · Workflow automation · Kaizen, applied to software
+
+## Recent writing
+
+[Skills, MCP, RAG and Memory: How an AI Agent Investigates a 500 Error](https://treenodes.com/articles/skills-mcp-rag-memory-500-error/)  
+[Jira and Confluence: From a Business Question to a Working Feature](https://treenodes.com/articles/jira-confluence-business-question-to-working-feature/)  
+[If AI can build the software, what is the architect for?](https://treenodes.com/articles/if-ai-can-build-software-what-is-the-architect-for/)  
+[How AI systems fit together](https://treenodes.com/articles/how-ai-systems-fit-together/)  
+[All my articles](https://treenodes.com/articles/by/nermien-barakat/)
+
 ## Let's connect
 
 For a new product, a complex workflow or a system that needs to evolve, [explore TreeNodes services](https://treenodes.com/services/) or [get in touch](https://treenodes.com/contact/).
