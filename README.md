@@ -1,10 +1,11 @@
 # Hi, I'm Nermien Barakat (Neri)
 
-**Systems & Applied AI Architect · TreeNodes**
+**Principal Software Architect & Engineer · TreeNodes**  
+Web & Mobile Applications · Business Systems & Applied AI
 
 I turn business needs, processes and data into software architecture and working products. At [TreeNodes](https://treenodes.com/), I connect business analysis, systems design and hands-on software delivery to build software that fits how people work.
 
-[TreeNodes](https://treenodes.com/) · [LinkedIn](https://www.linkedin.com/in/nermienbarakat/) · [My writing](https://treenodes.com/articles/by/nermien-barakat/) · [Discuss a project](https://treenodes.com/contact/)
+[TreeNodes](https://treenodes.com/) · [LinkedIn](https://www.linkedin.com/in/nermienbarakat/) · [My writing](https://treenodes.com/articles/by/nermien-barakat/) · [Discuss a project](https://treenodes.com/contact/) · [hi@treenodes.com](mailto:hi@treenodes.com)
 
 ## From business needs to working software
 
