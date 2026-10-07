@@ -23,12 +23,14 @@ Nearly 20 years across software development, systems analysis and architecture t
 
 ## Industries
 
-| Field | Experience |
+| Sector | What I've built |
 |---|---|
-| Business operations | Operations and process improvement, document and file processing, project management, workflow automation |
-| Commerce and property | E-commerce, real estate, travel |
-| Health and education | Medical and health, care planning, education and tutoring |
-| Media and entertainment | Music learning, theatre and events, social platforms, publishing |
+| Professional services and operations | Client file collection, project management and internal business systems |
+| Retail and e-commerce | An eyewear marketplace, from first idea to storefront and back end |
+| Real estate | Website and back end for a property photography and marketing business |
+| Health and care | A women's health community website and an iOS care-planning app |
+| Education | A tutoring platform for young people and a music learning platform on web and mobile |
+| Media, arts and community | A drama school website, a fan social network and image-processing tools |
 
 ## Tech stack
 
